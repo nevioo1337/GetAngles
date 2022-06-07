@@ -1,2 +1,2 @@
-# GetAngles
-GetAngles function for csgo
+# GetAngles / CalcAngle
+GetAngles / CalcAngle function for csgo
